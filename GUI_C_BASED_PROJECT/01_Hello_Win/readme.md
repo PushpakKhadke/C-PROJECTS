@@ -13,17 +13,17 @@ This C code creates a basic Windows program showing the text "Pushpak Khadke" in
                                 
 1. You will need to navigate to the location of your source code folder by using the "cd" command.
 
-  ```shell
+     ```shell
    cd source_code_location
 
 2. Build exe file using following command.
 
-```shell
+    ```shell
    cl /Fe:app.exe Hello_Win.c
- 
+
 3. Run exe file using following command.
 
- ```shell
+    ```shell
    app.exe
 
 ## Output
