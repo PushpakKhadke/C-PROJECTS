@@ -27,7 +27,7 @@ This C project is a Windows application that opens a window saying "Hello, Frien
    app.exe
 
 ## Output
-<img src="./Output/output.png" alt="HelloWin">
+<img src="./Output/Output.png" alt="HelloWin">
 
 
 
