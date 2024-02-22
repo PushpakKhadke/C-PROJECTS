@@ -2,7 +2,7 @@
 
 This C project is a Windows application that opens a window saying "Hello, Friends!". It also plays a sound when the window appears. The code uses basic Windows functions to create the window and handle user interactions. It's a simple example to demonstrate how to create a graphical interface using C on Windows.
 
-## Technology Stck
+## Technology Stack
 
 `Win32 API` <br>
 `C Programming` <br>
