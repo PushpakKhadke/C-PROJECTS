@@ -2,7 +2,7 @@
 
 This program demonstrates a basic graphical user interface (GUI) application using WinAPI in C. It creates a window titled "Hello, World!" with a vertical scroll bar, allowing users to scroll through the displayed text. The application showcases fundamental concepts such as window creation, message handling, drawing on the client area, and implementing a vertical scroll bar functionality.
 
-## Technology Stck
+## Technology Stack
 
 `Win32 API` <br>
 `C Programming` <br>
