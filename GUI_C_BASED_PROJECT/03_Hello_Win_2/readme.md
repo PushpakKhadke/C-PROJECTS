@@ -2,7 +2,7 @@
 
 "This C program creates a basic graphical window on a Windows system using the Win32 API. It demonstrates how to handle user interactions, such as right-clicking the mouse, and displays a message box in response.
 
-## Technology Stck
+## Technology Stack
 
 `Win32 API` <br>
 `C Programming` <br>
