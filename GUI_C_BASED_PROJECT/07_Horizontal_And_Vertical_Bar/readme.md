@@ -2,7 +2,7 @@
 
 This project demonstrates C Windows application demonstrates the implementation of horizontal and vertical scroll bars within a window, featuring centered text display using the WinAPI.
 
-## Technology Stck
+## Technology Stack
 
 `Win32 API` <br>
 `C Programming` <br>
