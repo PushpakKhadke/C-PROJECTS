@@ -1,0 +1,26 @@
+// Stone    
+1)  You  ---> Rock
+    Computer ---> Paper
+    Result ---> Paper Beats Rock (Computer Win)
+
+2)  You ---> Rock
+    Computer ---> Scissors
+    Result ---> Rock Beats Scissors (You Win)
+
+// Paper
+3)  You --> Paper
+    Computer ---> Rock
+    Result ---> Paper Beats Rock (You Win)
+
+4)  You --> Paper
+    Computer ---> Scissors
+    Result ---> Scissors Beats Paper (Computer Win)
+
+// Scissors
+5)  You --> Scissors
+    Computer ---> Paper
+    Result ---> Scissors Beats Paper (You Win)
+
+6)  You --> Scissors
+    Computer ---> Rock
+    Result ---> Rock Beats Scissors (Computer Win)
