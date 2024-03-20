@@ -28,6 +28,7 @@ The code creates a Win32 C application that creates a simple sign-up form. It in
 
 ## Output
 <img src="./Output/Output.png" alt="HelloWin">
+<img src="./Output/Output1.png" alt="HelloWin">
 
 
 
