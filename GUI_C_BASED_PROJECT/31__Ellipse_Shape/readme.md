@@ -1,6 +1,6 @@
-# Draw Octagon Project
+# Draw Ellipse Project
 
-The provided code is a Windows application written in C, which creates a graphical window displaying an octagon shape filled with purple color over a gradient background transitioning from dark gray to light gray.
+The provided code is a Windows application written in C, which creates a graphical window displaying an Ellipse shape filled with yellow color over a gradient background transitioning from dark red to light orange.
 
 
 ## Technology Stack
