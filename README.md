@@ -1,7 +1,7 @@
-# C-PROJECTS REPO
+# C-PROJECTS REPOSITORY
 
 ## About This Repository
-- In this repo we have uploaded a c projects
+- In this repo we have uploaded a C projects
 - This repo is divided into two types of c projects <br>
  <a href="">1) Console user interface application</a> <br>
  <a href="">2) Graphical user interface application</a> <br>
