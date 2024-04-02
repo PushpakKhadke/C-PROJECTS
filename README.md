@@ -25,6 +25,15 @@
 | 03_Hello_Win_2      |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/03_Hello_Win_2">Link</a>   |
 | 04_Hello_Win_3      |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/04_Hello_Win_3">Link</a>   |
 | 05_Vertical_Scroll_Bar     |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/05_Vertical_Scroll_Bar">Link</a>   |
+| 06_Horizontal_Scroll_Bar      |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/06_Horizontal_Scroll_Bar">Link</a>   |
+| 07_Horizontal_And_Vertical_Bar   |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/07_Horizontal_And_Vertical_Bar">Link</a>   |
+| 08_Radio_Button_Part1      |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/08_Radio_Button_Part1">Link</a>   |
+| 09_Radio_Button_Part2      |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/09_Radio_Button_Part2">Link</a>   |
+| 10_Push_Button      |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/10_Push_Button">Link</a>   |
+
+
+
+
 <!--
 | 04_Hello_Win_3      |	<a href="">Link</a>   |
 -->
