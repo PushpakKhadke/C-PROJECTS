@@ -35,6 +35,11 @@
 |   13_ADDITION APP   |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/13_ADDITION%20APP">Link</a>   |
 |   14_SUBTRACTION APP   |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/14_SUBTRACTION%20APP">Link</a>   |
 |    15_MULTIPICATION  APP   |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/15_MULTIPICATION%20%20APP">Link</a>   |
+|  16_DIVISION APP     |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/16_DIVISION%20APP">Link</a>   |
+|  17_Set_Background     |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/17_Set_Background">Link</a>   |
+|   18_Set_Gradient_Background    |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/18_Set_Gradient_Background">Link</a>   |
+
+
 <!--
 | 04_Hello_Win_3      |	<a href="">Link</a>   |
 -->
