@@ -38,7 +38,9 @@
 |  16_DIVISION APP     |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/16_DIVISION%20APP">Link</a>   |
 |  17_Set_Background     |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/17_Set_Background">Link</a>   |
 |   18_Set_Gradient_Background    |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/18_Set_Gradient_Background">Link</a>   |
-
+| 19_Circle_Shape      |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/19_Circle_Shape">Link</a>   |
+| 20_Square_Shape     |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/20_Square_Shape">Link</a>   |
+| 21_Rectangle_Shape     |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/21_Rectangle_Shape">Link</a>   |
 
 <!--
 | 04_Hello_Win_3      |	<a href="">Link</a>   |
