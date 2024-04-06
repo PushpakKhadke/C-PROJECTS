@@ -41,8 +41,10 @@
 | 19_Circle_Shape      |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/19_Circle_Shape">Link</a>   |
 | 20_Square_Shape     |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/20_Square_Shape">Link</a>   |
 | 21_Rectangle_Shape     |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/21_Rectangle_Shape">Link</a>   |
-
+| 22_Triangle_Shape      |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/22_Triangle_Shape">Link</a>   |
+|   23__Hexagon_Shape    |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/23__Hexagon_Shape">Link</a>   |
+|  24__Text_Box   |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/24__Text_Box">Link</a>   |
 <!--
-| 04_Hello_Win_3      |	<a href="">Link</a>   |
+|      |	<a href="">Link</a>   |
 -->
 
