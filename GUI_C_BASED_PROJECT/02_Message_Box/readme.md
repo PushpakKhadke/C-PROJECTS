@@ -1,4 +1,4 @@
-# Message Box Project1
+# Message Box Project12
 
 This program is a simple Windows application written in C that demonstrates the usage of the `MessageBox` function to display a modal dialog box with a custom message and title. It utilizes the Windows API and can be compiled and executed using the Microsoft C/C++ compiler (`cl`).
 
