@@ -53,7 +53,7 @@
 |    31__Ellipse_Shape  |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/31__Ellipse_Shape">Link</a>   |
 |32_Star__Shape|	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/32_Star__Shape">Link</a>   |
 |33_Current_Size_Window|	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/33_Current_Size_Window">Link</a>   |
-
+|  34_CurrentSizeOfWindow    |	<a href="https://github.com/PushpakKhadke/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/34_CurrentSizeOfWindow">Link</a>   |
 
 
 <!--
