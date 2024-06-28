@@ -1,4 +1,4 @@
-# C-PROJECTS REPOSITORY123
+# C-PROJECTS REPOSITORY
 
 ## About This Repository
 - In this repo we have uploaded a C projects
