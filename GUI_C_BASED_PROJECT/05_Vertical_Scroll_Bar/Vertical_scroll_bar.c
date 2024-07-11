@@ -1,4 +1,4 @@
-#include <windows.h>123
+#include <windows.h>
 
 #pragma comment(lib, "user32.lib")
 #pragma comment(lib, "gdi32.lib")
