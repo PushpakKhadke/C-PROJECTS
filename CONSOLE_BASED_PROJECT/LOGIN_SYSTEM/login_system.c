@@ -1,4 +1,4 @@
-#include <stdio.h>1
+#include <stdio.h>
 #include <string.h>
 
 #define MAX_USERS 10
