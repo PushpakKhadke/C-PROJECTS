@@ -1,5 +1,5 @@
 // Header File
-#include <stdio.h> // for puts prinf and scanf
+#include <stdio.h> // for puts prinf and scanf1
 #include <stdlib.h> // for rand
 #include <time.h> // 
 
