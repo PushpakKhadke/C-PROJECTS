@@ -1,7 +1,7 @@
 // Header File
 #include <stdio.h> // for puts prinf and scanf
 #include <stdlib.h> // for rand
-#include <time.h> // 123
+#include <time.h> // 1234
 
 
 
