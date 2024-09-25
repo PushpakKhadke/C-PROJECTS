@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>1
+#include <stdlib.h>
 
 
 // Function prototypes
